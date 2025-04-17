@@ -4,4 +4,4 @@
  ☁️ - incoming swe intern @ microsoft (summer 2025) \
  💻 - interested in software development
 
- ![ryan's Top Languages](https://github-readme-stats-rho-nine-49.vercel.app/api/top-langs/?username=rryantran&layout=compact&theme=graywhite)
+[![Top Langs](https://github-readme-stats-rho-nine-49.vercel.app/api/top-langs/?username=rryantran&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
